@@ -17,8 +17,8 @@ The Educational Tutor Agent is an AI-powered tutoring system that provides perso
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/educational-tutor-agent.git
-cd educational-tutor-agent
+[https://github.com/Idk507/Education_tutor_multiagent_autogen/](https://github.com/Idk507/Education_tutor_multiagent_autogen/)
+cd Education_tutor_multiagent_autogen
 ```
 
 2. Install dependencies:

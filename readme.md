@@ -131,6 +131,10 @@ educational_tutor_agent/
 | Hugging Face | `llm_providers/huggingface_provider.py` | ✅ Fully Supported |
 | Gemini | `llm_providers/gemini_provider.py` | ✅ Fully Supported |
 
+
+
+
+
 ## Contributing
 
 We welcome contributions! Please follow these steps:
@@ -140,6 +144,8 @@ We welcome contributions! Please follow these steps:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
+
+   
 
 ## License
 

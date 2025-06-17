@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "session_id": "030293de-7040-4e1b-aed6-1427b251e929",
+    "created_at": "2025-06-04T23:07:02.486358",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "Quadratic Equations"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "Asked about quadratic equations"
+    },
+    {
+      "role": "human",
+      "content": "Requested real-world example"
+    },
+    {
+      "role": "human",
+      "content": "Requested practice problems"
+    },
+    {
+      "role": "human",
+      "content": "Attempted factoring x^2 - 7x + 10"
+    }
+  ]
+}

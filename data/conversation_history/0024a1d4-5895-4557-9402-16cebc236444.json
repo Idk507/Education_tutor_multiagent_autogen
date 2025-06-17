@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "session_id": "0024a1d4-5895-4557-9402-16cebc236444",
+    "created_at": "2025-06-05T00:09:31.315619",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "addition",
+      "4"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "explain addition"
+    },
+    {
+      "role": "human",
+      "content": "4"
+    }
+  ]
+}

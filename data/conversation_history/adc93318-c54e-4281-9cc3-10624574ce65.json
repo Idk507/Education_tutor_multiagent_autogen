@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "session_id": "adc93318-c54e-4281-9cc3-10624574ce65",
+    "created_at": "2025-06-10T22:27:04.136824",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "Quadratic Equations"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "For x^2 - 7x + 10 = 0, I got x = 2, x = 5. Is this correct?"
+    },
+    {
+      "role": "human",
+      "content": "For x^2 - 7x + 10 = 0, I got x = 2, x = 5. Is this correct?"
+    },
+    {
+      "role": "human",
+      "content": "addition of 3 and 5 is 10"
+    }
+  ]
+}

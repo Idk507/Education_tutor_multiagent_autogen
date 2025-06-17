@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "session_id": "d64f6c71-9696-46c2-b039-5e770f08809d",
+    "created_at": "2025-06-09T11:42:50.323519",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "problem"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "give me a easy addition problem"
+    },
+    {
+      "role": "human",
+      "content": "give me a easy additon problem"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "session_id": "e77a7614-0aa2-4ece-aa41-cd31e265f09e",
+    "created_at": "2025-06-10T23:06:54.948350",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "give me addition problem"
+    ]
+  },
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "[\n  {\n    \"question\": \"What is the sum of 347 and 289?\",\n    \"correct_answer\": \"636\",\n    \"solution\": {\n      \"step_1\": \"Write the numbers vertically, aligning them by place value (ones, tens, hundreds):\",\n      \"step_2\": \"Add the ones place: 7 + 9 = 16. Write 6 in the ones place and carry over 1 to the tens place.\",\n      \"step_3\": \"Add the tens place: 4 + 8 = 12, then add the carried-over 1: 12 + 1 = 13. Write 3 in the tens place and carry over 1 to the hundreds place.\",\n      \"step_4\": \"Add the hundreds place: 3 + 2 = 5, then add the carried-over 1: 5 + 1 = 6.\",\n      \"step_5\": \"Combine the results: 636.\"\n    },\n    \"hint\": \"Start by adding the digits in the ones place and carry over if the sum exceeds 9.\",\n    \"alternative_method\": \"Use a number line: Start at 347 and add 289 step by step. First add 200 to reach 547, then add 80 to get 627, and finally add 9 to arrive at 636.\"\n  }\n]"
+    },
+    {
+      "role": "human",
+      "content": "give me addition problem"
+    }
+  ]
+}

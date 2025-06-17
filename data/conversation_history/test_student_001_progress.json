@@ -1,0 +1,13 @@
+{
+  "student_id": "test_student_001",
+  "progress_data": {},
+  "learning_sessions": [
+    {
+      "session_id": "38ca48d0-de19-4961-8554-64de289d7acb",
+      "start_time": "2025-06-05T00:18:10.552322",
+      "subjects_covered": [],
+      "questions_asked": 0,
+      "questions_answered_correctly": 0
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "student_id": "student_dhanush",
+  "progress_data": {},
+  "learning_sessions": {
+    "33df1c31-8658-4ca7-8c04-19ce424a2025": {
+      "session_id": "33df1c31-8658-4ca7-8c04-19ce424a2025",
+      "start_time": "2025-06-12T23:32:27.955105",
+      "end_time": "2025-06-12T23:33:07.884167",
+      "subjects_covered": [],
+      "topics_covered": [],
+      "questions_asked": 0,
+      "questions_answered_correctly": 0,
+      "learning_styles": [],
+      "duration_minutes": 0.67
+    },
+    "004a1521-7fd2-4f58-a91f-9a73e6709841": {
+      "session_id": "004a1521-7fd2-4f58-a91f-9a73e6709841",
+      "start_time": "2025-06-12T23:33:30.457831",
+      "end_time": "2025-06-12T23:33:58.900587",
+      "subjects_covered": [],
+      "topics_covered": [],
+      "questions_asked": 0,
+      "questions_answered_correctly": 0,
+      "learning_styles": [],
+      "duration_minutes": 0.47
+    }
+  }
+}

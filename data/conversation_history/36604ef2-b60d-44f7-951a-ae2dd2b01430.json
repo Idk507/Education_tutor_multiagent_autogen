@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "session_id": "36604ef2-b60d-44f7-951a-ae2dd2b01430",
+    "created_at": "2025-06-10T22:59:08.831960",
+    "subjects": [
+      "General"
+    ],
+    "topics": [
+      "Addition Problem"
+    ]
+  },
+  "messages": [
+    {
+      "role": "assistant",
+      "content": "{\n  \"question\": \"What is the sum of 15 and 27?\",\n  \"correct_answer\": \"42\",\n  \"solution\": \"Step 1: Write the problem as 15 + 27. \\nStep 2: Add the numbers in the ones place: 5 + 7 = 12. Write down 2 and carry over the 1. \\nStep 3: Add the numbers in the tens place, including the carry-over: 1 + 2 + 1 = 4. \\nStep 4: Combine the results to get the sum: 42. \\nFinal Answer: The sum of 15 and 27 is 42.\"\n}"
+    },
+    {
+      "role": "human",
+      "content": "give me easy addition problem"
+    },
+    {
+      "role": "assistant",
+      "content": "{\n  \"is_correct\": false,\n  \"feedback\": \"Your solution, 15, is incorrect. The problem asks for the sum of 15 and 27, meaning you need to add these two numbers together. To solve this:\\nStep 1: Write the problem as 15 + 27.\\nStep 2: Add the numbers in the ones place: 5 + 7 = 12. Write down 2 and carry over the 1.\\nStep 3: Add the numbers in the tens place, including the carry-over: 1 + 2 + 1 = 4.\\nStep 4: Combine the results to get the sum: 42.\\nIt seems you might have misunderstood the question or skipped the calculation entirely. Remember to carefully perform addition step by step. Please try again, following this process closely.\",\n  \"performance_score\": 0.25\n}"
+    },
+    {
+      "role": "human",
+      "content": "Problem: What is the sum of 15 and 27?\nMy solution: 15"
+    }
+  ]
+}

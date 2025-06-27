@@ -1,0 +1,59 @@
+# Core Dependencies
+pyautogen
+langchain
+langchain-openai
+langchain-community
+openai
+azure-openai
+transformers
+torch
+google-generativeai
+python-dotenv
+pydantic
+chromadb
+numpy
+pandas
+aiohttp
+asyncio
+typing-extensions
+
+# AutoGen and Extended Dependencies
+autogen-agentchat
+autogen
+langchain-google-genai
+langchain-huggingface
+
+# Memory and Storage
+faiss-cpu
+sqlite3-fts4
+
+# Data Processing
+scipy
+scikit-learn
+
+# API and Web Framework
+fastapi
+uvicorn
+streamlit
+
+# Utilities
+requests
+pyyaml
+click
+rich
+
+# Development and Testing
+pytest
+pytest-asyncio
+black
+flake8
+mypy
+
+# Monitoring and Logging
+loguru
+prometheus-client
+
+# Data Visualization
+matplotlib
+seaborn
+plotly

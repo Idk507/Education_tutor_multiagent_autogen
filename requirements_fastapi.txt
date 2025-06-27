@@ -1,0 +1,29 @@
+# FastAPI Application Dependencies
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+python-json-logger
+
+# Original agent.py dependencies
+autogen-agentchat
+langchain
+langchain-community
+tenacity
+openai
+
+
+# Additional FastAPI utilities
+python-jose[cryptography]
+passlib[bcrypt]
+python-decouple
+
+# Testing dependencies (optional)
+pytest
+pytest-asyncio
+httpx
+
+# Development dependencies (optional)
+black
+flake8
+mypy

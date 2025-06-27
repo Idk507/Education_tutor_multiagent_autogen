@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "session_id": "f47cae7a-0a92-4ca0-9137-2347846ca042",
+    "created_at": "2025-06-09T13:05:09.231793",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "addition",
+      "problem",
+      "Quadratic Equations",
+      "6"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "give me a easy problem in addition"
+    },
+    {
+      "role": "human",
+      "content": "easy addition problem"
+    },
+    {
+      "role": "human",
+      "content": "4"
+    },
+    {
+      "role": "human",
+      "content": "6"
+    }
+  ]
+}

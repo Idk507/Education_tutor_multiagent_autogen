@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "session_id": "1db1a057-aebd-45a2-a7bc-0b63e44f0cf2",
+    "created_at": "2025-06-05T00:29:59.799164",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "equation problem"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "Give me one quadratic equation problem, medium difficulty"
+    }
+  ]
+}

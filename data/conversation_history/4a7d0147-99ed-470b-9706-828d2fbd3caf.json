@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "session_id": "4a7d0147-99ed-470b-9706-828d2fbd3caf",
+    "created_at": "2025-06-04T23:30:57.402540",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "equations?"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "Can you show a real-world example of quadratic equations?"
+    },
+    {
+      "role": "human",
+      "content": "Can you show a real-world example of quadratic equations?"
+    }
+  ]
+}

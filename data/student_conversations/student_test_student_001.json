@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "session_id": "student_test_student_001",
+    "created_at": "2025-06-03T13:24:36.637000",
+    "updated_at": "2025-06-04T23:06:48.959369",
+    "message_count": 10,
+    "topics_covered": [
+      "quadratic equations"
+    ],
+    "subjects_discussed": [
+      "mathematics"
+    ]
+  },
+  "conversation_history": [
+    {
+      "role": "student",
+      "content": "Question about quadratic equations: Can you show a real-world example?",
+      "timestamp": "2025-06-03T13:24:51.042795",
+      "message_id": "c1f9f3d2-a2cc-4857-8798-cbfdece1b37b",
+      "metadata": {}
+    },
+    {
+      "role": "student",
+      "content": "Question about quadratic equations: Can you show a real-world example?",
+      "timestamp": "2025-06-03T19:31:04.320900",
+      "message_id": "4757205a-6530-4d16-b587-d6719c521f22",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "user",
+      "content": "Question about quadratic equations: Can you show a real-world example?",
+      "timestamp": "2025-06-03T22:24:09.817134",
+      "message_id": "4cad7d3c-c3c1-4d8a-8ae7-e938e9a16d09",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Question received, awaiting tutor response.",
+      "timestamp": "2025-06-03T22:24:09.822557",
+      "message_id": "b134b9f3-ed89-4222-8b11-2f2088b4556c",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "user",
+      "content": "Question about quadratic equations: Can you show a real-world example?",
+      "timestamp": "2025-06-03T22:51:59.563101",
+      "message_id": "dedcaa81-e2f1-4fe6-9543-eed63851b9f2",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Question received, awaiting tutor response.",
+      "timestamp": "2025-06-03T22:51:59.564525",
+      "message_id": "dcc435e7-ea24-4448-b32b-77a6544db091",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "user",
+      "content": "Question about quadratic equations: Can you show a real-world example?",
+      "timestamp": "2025-06-04T12:20:30.451473",
+      "message_id": "fda352ee-9d99-406c-8537-b87fa53beb09",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Question received, awaiting tutor response.",
+      "timestamp": "2025-06-04T12:20:30.451473",
+      "message_id": "8ecb9f81-7c85-4454-a3e2-29243d31ac05",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "user",
+      "content": "Question about quadratic equations: Can you show a real-world example?",
+      "timestamp": "2025-06-04T23:06:48.958371",
+      "message_id": "9685f391-47a1-4b9a-86e8-a57a6c0a2aea",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    },
+    {
+      "role": "assistant",
+      "content": "Question received, awaiting tutor response.",
+      "timestamp": "2025-06-04T23:06:48.959369",
+      "message_id": "c0e62b6d-4ffb-4634-b151-1ae4d8bb1324",
+      "metadata": {
+        "subject": "mathematics",
+        "topic": "quadratic equations"
+      }
+    }
+  ]
+}

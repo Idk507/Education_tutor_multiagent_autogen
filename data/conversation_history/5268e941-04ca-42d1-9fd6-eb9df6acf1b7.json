@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "session_id": "5268e941-04ca-42d1-9fd6-eb9df6acf1b7",
+    "created_at": "2025-06-09T11:04:03.321490",
+    "subjects": [
+      "Mathematics"
+    ],
+    "topics": [
+      "2",
+      "s"
+    ]
+  },
+  "messages": [
+    {
+      "role": "human",
+      "content": "2"
+    },
+    {
+      "role": "human",
+      "content": "Create 3 problems on quadratic equations"
+    },
+    {
+      "role": "human",
+      "content": "Create 3 problems on quadratic equations"
+    }
+  ]
+}

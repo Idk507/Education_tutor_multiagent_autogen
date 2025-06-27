@@ -1,0 +1,32 @@
+{
+  "student_id": "student_demo_001",
+  "progress_data": {
+    "Mathematics": {
+      "Algebra": {
+        "subject": "Mathematics",
+        "topic": "Algebra",
+        "skill_level": 0.18,
+        "attempts": 1,
+        "successful_attempts": 1
+      },
+      "addition": {
+        "subject": "Mathematics",
+        "topic": "addition",
+        "skill_level": 0.3,
+        "attempts": 1,
+        "successful_attempts": 1
+      }
+    }
+  },
+  "learning_sessions": [
+    {
+      "session_id": "1b0218c9-4498-4da9-870e-a5082435809d",
+      "start_time": "2025-06-27T10:45:29.584971",
+      "subjects_covered": [
+        "Mathematics"
+      ],
+      "questions_asked": 3,
+      "questions_answered_correctly": 1
+    }
+  ]
+}

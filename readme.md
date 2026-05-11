@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+![WhatsApp Image 2025-06-27 at 10 49 59_f4da03c9](https://github.com/user-attachments/assets/047dcfc6-38e4-447c-ab4c-caea72d2bf34)<<<<<<< HEAD
+>>>>>>> 7b99f9dd35ab45378c5c83ad21be1c03bebea703
 # Educational Tutor Agent
 
 ![AI Education](https://img.freepik.com/free-vector/online-tutorials-concept_52683-37481.jpg)
@@ -14,6 +18,21 @@ The Educational Tutor Agent is an AI-powered tutoring system that provides perso
 - **Conversation Memory**: Maintains context across sessions
 - **Detailed Reporting**: Generates comprehensive progress reports
 
+<<<<<<< HEAD
+=======
+## UI 
+![WhatsApp Image 2025-06-27 at 10 49 48_bdb4b10e](https://github.com/user-attachments/assets/c1d52560-8818-4717-8f94-35077c161d1c)
+
+![WhatsApp Image 2025-06-27 at 10 49 59_f4da03c9](https://github.com/user-attachments/assets/c17dca2e-49f7-4f9a-a74b-648997bf6c01)
+
+![WhatsApp Image 2025-06-27 at 10 50 11_04d67308](https://github.com/user-attachments/assets/5a054495-c8ff-4a96-9d2c-ef3baf79b1f2)
+
+
+![WhatsApp Image 2025-06-27 at 10 50 21_68895dac](https://github.com/user-attachments/assets/7b4bb656-e4c5-433d-b973-00eb0e56bfe7)
+
+![WhatsApp Image 2025-06-27 at 10 50 36_5681148c](https://github.com/user-attachments/assets/612a371f-db31-4dd5-aa13-936003f65f1b)
+
+>>>>>>> 7b99f9dd35ab45378c5c83ad21be1c03bebea703
 ## Installation
 
 1. Clone the repository:
